@@ -146,13 +146,13 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "app_test_ui",
+      "name": "app_profile_mobil",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-06-27T16:20:55.482503Z",
+  "generated": "2024-06-27T16:23:31.204300Z",
   "generator": "pub",
   "generatorVersion": "3.2.5"
 }
